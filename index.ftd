@@ -4,3 +4,9 @@
 
 -- ftd.text: Arpita
 
+-- ftd.row:
+width: 100
+background-color: red
+padding: 30
+
+-- ftd.text: ROCK ON
